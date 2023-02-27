@@ -58,7 +58,7 @@ const Home = () => {
             </div>
         </div>
         <div className="footer">
-            <h3><a href="https://www.github.com/purshottamxkumar" id="profile-link" target="_blank" rel="noopener noreferrer">made By Purshottam Kumar!</a></h3>
+            <h3><a href="https://github.com/manishkumar70" id="profile-link" target="_blank" rel="noopener noreferrer">made By Manish Kumar!</a></h3>
         </div>
     </div>
   )
